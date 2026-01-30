@@ -23,7 +23,7 @@ Og vælg Pull.
 Dette skulle gerne resultere i at Docker henter RabbitMQ imaget ned til jeres lokale maskine.
 Før at køre RabbitMQ imaget, kan I trykke på "Play" knappen i Docker Desktop. 
 
-Vælg optional settings og sæt Port mapping til 5672:5672 og 8080:15672 og giv containeren et navn (f.eks. rabbitmq).
+Vælg optional settings og sæt Port mapping til 5672:5672 og 8080:15692 og giv containeren et navn (f.eks. rabbitmq).
 
 Naviger til http://localhost:8080 i jeres browser for at se RabbitMQ management konsollen. 
 

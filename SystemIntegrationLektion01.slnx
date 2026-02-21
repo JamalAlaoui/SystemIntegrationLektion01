@@ -1,5 +1,7 @@
 <Solution>
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
+    <Project Path="lolandGiggels \Send.csproj" />
+    <Project Path="Receiving/Receiving.csproj" />
   </Folder>
 </Solution>
